@@ -1,0 +1,17 @@
+
+  .contenedor{
+    background-color: #ffffff;
+    display:flex;
+    justify-content: center;
+    border-radius: 20px solid black;
+  }
+  .hijo{
+    font-size: 20px;
+    font-family: cursive;
+    width: 100px;
+    height: 100px;
+    background-color: #ffffff;
+    margin: 0%;
+  }
+
+  

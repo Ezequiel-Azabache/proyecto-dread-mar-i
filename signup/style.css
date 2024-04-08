@@ -1,0 +1,13 @@
+.contenedor{
+    background-color: #ffffff;
+    display:flex;
+    justify-content: center;
+  }
+  .hijos{
+    font-size: 20px;
+    font-family: cursive;
+    width: 100px;
+    height: 100px;
+    background-color: #ffffff;
+    margin: 0%;
+  }
